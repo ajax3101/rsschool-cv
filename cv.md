@@ -9,7 +9,7 @@ Denys Morozov
 - **Zaporizhzhia, Ukraine**
 - **Ready to relocate:** Dnipro, Kyiv
 
-**Objective**
+# Objective
 
 To obtain a challenging position as a Software QA Engineer in a progressive company where it is possible to implement my Quality Assurance experience, skills and knowledge in order to achieve corporate goals.
 
