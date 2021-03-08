@@ -1,1 +1,1 @@
-https://ajax3101.github.io/rsschool-cv/cv
+https://ajax3101.github.io/rsschool-cv/
