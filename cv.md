@@ -3,11 +3,11 @@ Denys Morozov
 
 ## Contact info
 
-- Email: ajax3101@gmail.com
-- **Phone:**+38(050) 484-72-71
-- GIT: https://github.com/ajax3101
-- **Ready to relocate:** Dnipro, Kyiv
+- **Email:** ajax3101@gmail.com
+- **Phone:** +38(050) 484-72-71
+- **GitHub:** https://github.com/ajax3101
 - **Zaporizhzhia, Ukraine**
+- **Ready to relocate:** Dnipro, Kyiv
 
 **Objective**
 
